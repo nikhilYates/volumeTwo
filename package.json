@@ -1,0 +1,11 @@
+{
+  "name": "volumetwo",
+  "version": "1.0.0",
+  "description": "portfolio revamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Nikhil Yates",
+  "license": "ISC"
+}
