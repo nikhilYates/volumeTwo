@@ -1,0 +1,37 @@
+{
+    "recent": [
+        {
+            "title": "Software Developer",
+            "company": "Conduit Venture Labs",
+            "skills": ["React Native", "iOS", "Swift"],
+            "description": [""],
+            "start-date": "07-04-2024",
+            "end-date": "Present"
+        },
+        {
+            "title": "Full-Stack Engineer",
+            "company": "ScorpionLabz",
+            "skills": ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+            "description": [""],
+            "start-date": "09-01-2023",
+            "end-date": "Present"
+        },
+        {
+            "title": "Private Equity Analyst (Co-op)",
+            "company": "Define Capital",
+            "skills": ["Financial Analysis","Data Analysis", "python", "SaaS Funding", "Market Analysis"],
+            "description": [""],
+            "start-date": "05-01-2023",
+            "end-date": "09-01-2023"
+        },
+        {
+            "title":"Software Developer",
+            "company": "York University",
+            "project": "ESSENCE CubeSat Mission",
+            "skills": ["C", "Satellite Systems", "Arduino", "Bash", "Software Documentation"],
+            "description": [""],
+            "start-date": "10-01-2021",
+            "end-date": "02-01-2022"
+        }
+    ]
+}
